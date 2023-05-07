@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Product Ordering App</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="login_as_guest">Bejelentkezés vendégként</string>
+    <string name="login_with_google">Bejelentkezés Google-lel</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="pass_again">Jelszó újra</string>
+    <string name="address">Város, utca, házszám</string>
+    <string name="cancel">Mégse</string>
+    <string name="man">Férfi</string>
+    <string name="woman">Nő</string>
+    <string name="other">Egyéb</string>
+    <string name="name_of_product">Termék neve</string>
+    <string name="product_brand">Termék gyártója</string>
+    <string name="product_desription">Termék leírása</string>
+    <string name="product_price">Ár</string>
+    <string name="search">Keresés</string>
+    <string name="settings">Beállítások</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="cart">Kosár</string>
+    <string name="amount">Darab:</string>
+    <string name="back">Vissza</string>
+    <string name="product_list">Termék lista</string>
+    <string name="continue_to_order">Tovább a vásárláshoz</string>
+    <string name="order_phase">Véglegesítés</string>
+    <string name="ordering_details">Adatok megadása</string>
+    <string name="full_name">Teljes név</string>
+    <string name="tel_number">Telefonszám</string>
+    <string name="shipping_fee">Szállítási költség: </string>
+    <string name="total">Összesen:</string>
+    <string name="zero_forint">0 Ft</string>
+    <string name="pruducts">Termékek:</string>
+    <string name="add_to_cart">Hozzáadás a kosárhoz</string>
+    <string name="fill_details">Regisztrációs adatok másolása</string>
+    <string name="payment_method">Fizetési mód: </string>
+    <string name="message_for_delivery_man">Üzenet a futárnak</string>
+    <string name="place_order">Rendelés leadása</string>
+
+    <string-array name="countries">
+        <item>Magyarország</item>
+        <item>England</item>
+        <item>Germany</item>
+        <item>Russia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Canada</item>
+        <item>Canberra</item>
+        <item>Japan</item>
+    </string-array>
+
+    <string-array name="payment_methods">
+        <item>Utánvétel ( + 500 Ft)</item>
+        <item>Banki utalás (Ingyenes)</item>
+        <item>Erzsébet kártya ( + 1000 Ft)</item>
+    </string-array>
+
+    <string-array name="product_name">
+        <item>Billentyűzet</item>
+        <item>Egér</item>
+        <item>Gamer Fejhallgató</item>
+        <item>Gamer PC</item>
+        <item>Gaming Monitor</item>
+        <item>Hangszóró</item>
+        <item>Laptop</item>
+        <item>Okos óra</item>
+        <item>PS5</item>
+        <item>TV</item>
+        <item>Tablet</item>
+        <item>Telefon</item>
+    </string-array>
+
+    <string-array name="product_brand">
+        <item>Urage</item>
+        <item>Trust</item>
+        <item>Trust</item>
+        <item>Asus</item>
+        <item>AOC</item>
+        <item>JBL</item>
+        <item>Asus</item>
+        <item>Apple</item>
+        <item>Sony</item>
+        <item>LG</item>
+        <item>Apple</item>
+        <item>Samsung</item>
+    </string-array>
+
+    <string-array name="product_price">
+        <item>10 000 Ft</item>
+        <item>5 000 Ft</item>
+        <item>20 000 Ft</item>
+        <item>300 000 Ft</item>
+        <item>120 000 Ft</item>
+        <item>35 000 Ft</item>
+        <item>150 000 Ft</item>
+        <item>135 000 Ft</item>
+        <item>185 000 Ft</item>
+        <item>145 000 Ft</item>
+        <item>200 000 Ft</item>
+        <item>250 000 Ft</item>
+    </string-array>
+
+    <string-array name="product_description">
+        <item>Ez egy nagyon jó billentyűzet!</item>
+        <item>Ez egy nagyon jó egér!</item>
+        <item>Ez egy nagyon jó gamer fejhallgató!</item>
+        <item>Ez egy nagyon jó gamer PC!</item>
+        <item>Ez egy nagyon jó Gaming Monitor!</item>
+        <item>Ez egy nagyon jó hangszóró!</item>
+        <item>Ez egy nagyon jó laptop!</item>
+        <item>Ez egy nagyon jó okos óra!</item>
+        <item>Ez egy nagyon jó PS!</item>
+        <item>Ez egy nagyon jó TV!</item>
+        <item>Ez egy nagyon jó tablet!</item>
+        <item>Ez egy nagyon jó telefon!</item>
+    </string-array>
+
+    <string-array name="product_images">
+        <item>@drawable/keyboard</item>
+        <item>@drawable/mouse</item>
+        <item>@drawable/gamer_headphone</item>
+        <item>@drawable/gamer_pc</item>
+        <item>@drawable/gaming_monitor</item>
+        <item>@drawable/speaker</item>
+        <item>@drawable/laptop</item>
+        <item>@drawable/smart_watch</item>
+        <item>@drawable/ps5</item>
+        <item>@drawable/tv</item>
+        <item>@drawable/tablet</item>
+        <item>@drawable/phone</item>
+    </string-array>
+
+</resources>
